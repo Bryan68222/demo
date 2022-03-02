@@ -11,4 +11,16 @@
   "profile": {
     "name": "typicode"
   }
+  "collections":[
+    {
+		"name": "hot",
+		"description": " So hot ",
+		"link": ""
+	},
+    {
+		"name": "game",
+		"description": " game nft ",
+		"link": ""
+	}
+  ]
 }
