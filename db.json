@@ -12,12 +12,12 @@
     "name": "typicode"
   },
   "collections":[
-    { "id": 1, "name": "Highstreet IHO", "volume": " So hot ", "link": "https://public.nftstatic.com/static/nft/zipped/7d71d35157224b31bc829d831176c66e_zipped.png" ,"supply":1000},
-    { "id": 2, "name": "DODO Minions", "volume": " game nft ", "link": "https://public.nftstatic.com/static/nft/zipped/a5530a2a0dbd4802aab585f37803d582_zipped.jpeg" ,"supply":1001},
-    { "id": 3, "name": "Nyaching - Year of the Tiger", "volume": "Nyaching is here to bring you good fortune in 2022 ","link": "https://public.nftstatic.com/static/nft/zipped/1c239ca344f44d3985e9a882dde32194_zipped.jpeg" ,"supply":1002},
-    { "id": 4, "name": "playgarden", "volume": " playgarden ", "link": "https://public.nftstatic.com/static/nft/zipped/d9ac2d8bbd6247a597f9df125b5e6cd8_zipped.png" ,"supply":1003},
-    { "id": 5, "name": "AQUANEE", "volume": " AQUANEE ", "link": "https://public.nftstatic.com/static/nft/zipped/82ece1d10f754b77ba2f8d0367eaae93_zipped.png" ,"supply":1004},
-    { "id": 6, "name": "NFT_LION", "volume": " NFT_LION ", "link": "https://public.nftstatic.com/static/nft/zipped/dc3f4c6676644c47ba8dbfe88be57680_zipped.png" ,"supply":1005},
-    { "id": 7, "name": "PugChampNFT", "volume": " PugChampNFT ", "link": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006}
+    { "id": 1, "name": "Highstreet IHO", "volume": "1000 ETH", "link": "https://public.nftstatic.com/static/nft/zipped/7d71d35157224b31bc829d831176c66e_zipped.png" ,"supply":1000},
+    { "id": 2, "name": "DODO Minions", "volume": "1000 USDT", "link": "https://public.nftstatic.com/static/nft/zipped/a5530a2a0dbd4802aab585f37803d582_zipped.jpeg" ,"supply":1001},
+    { "id": 3, "name": "Nyaching - Year of the Tiger", "volume": "102 ETH","link": "https://public.nftstatic.com/static/nft/zipped/1c239ca344f44d3985e9a882dde32194_zipped.jpeg" ,"supply":1002},
+    { "id": 4, "name": "playgarden", "volume": "1000 ETH", "link": "https://public.nftstatic.com/static/nft/zipped/d9ac2d8bbd6247a597f9df125b5e6cd8_zipped.png" ,"supply":1003},
+    { "id": 5, "name": "AQUANEE", "volume": "1000 ETH", "link": "https://public.nftstatic.com/static/nft/zipped/82ece1d10f754b77ba2f8d0367eaae93_zipped.png" ,"supply":1004},
+    { "id": 6, "name": "NFT_LION", "volume": "1000 ETH", "link": "https://public.nftstatic.com/static/nft/zipped/dc3f4c6676644c47ba8dbfe88be57680_zipped.png" ,"supply":1005},
+    { "id": 7, "name": "PugChampNFT", "volume": "1000 ETH", "link": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006}
   ]
 }
