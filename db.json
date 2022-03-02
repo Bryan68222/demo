@@ -12,15 +12,7 @@
     "name": "typicode"
   },
   "collections":[
-    {
-		"name": "hot",
-		"description": " So hot ",
-		"link": ""
-	},
-    {
-		"name": "game",
-		"description": " game nft ",
-		"link": ""
-	}
+    { "name": "hot", "description": " So hot ", "link": "" },
+    { "name": "game", "description": " game nft ", "link": "" }
   ]
 }
