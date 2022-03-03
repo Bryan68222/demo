@@ -19,8 +19,5 @@
     { "id": 5, "name": "AQUANEE", "volume": "$5.890.000", "image": "https://public.nftstatic.com/static/nft/res/51d306762b484cc28ca8a956868a020d.png", "link_zip": "https://public.nftstatic.com/static/nft/zipped/82ece1d10f754b77ba2f8d0367eaae93_zipped.png" ,"supply":1004, "items": 40},
     { "id": 6, "name": "NFT_LION", "volume": "$6.450.000", "image": "https://public.nftstatic.com/static/nft/res/86e8744b90ea407c8d7cb4e992513975.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/dc3f4c6676644c47ba8dbfe88be57680_zipped.png" ,"supply":1005, "items": 87},
     { "id": 7, "name": "PugChampNFT", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/87ff08801dc74fef97522233933919f1.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006, "items": 54},
-    { "id": 8, "name": "Kingdom Land", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/c523e76edd224260b03397a65bb33829.png", "link_zip": "https://public.nftstatic.com/static/nft/zipped/25722f1e41f04b998896011890120d97_zipped.png" ,"supply":1006, "items": 54},
-    { "id": 9, "name": "Mdex Meta - Elephant", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/2473c9a413524d66bc4d5dc8f387f168.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/1c93763bfea749f29ff0f9d02ffca1a3_zipped.jpeg" ,"supply":1006, "items": 54},
-    { "id": 24, "name": "PugChampNFT 1", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/87ff08801dc74fef97522233933919f1.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006, "items": 54}
   ]
 }
