@@ -35,7 +35,6 @@
     { "id": 21, "name": "playgarden 1", "volume": "$4.450.000", "image": "https://public.nftstatic.com/static/nft/res/3ca9bd3041c745c59d04123dd5bba290.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/d9ac2d8bbd6247a597f9df125b5e6cd8_zipped.png" ,"supply":1003, "items": 25},
     { "id": 22, "name": "AQUANEE 1", "volume": "$5.890.000", "image": "https://public.nftstatic.com/static/nft/res/51d306762b484cc28ca8a956868a020d.png", "link_zip": "https://public.nftstatic.com/static/nft/zipped/82ece1d10f754b77ba2f8d0367eaae93_zipped.png" ,"supply":1004, "items": 40},
     { "id": 23, "name": "NFT_LION 1", "volume": "$6.450.000", "image": "https://public.nftstatic.com/static/nft/res/86e8744b90ea407c8d7cb4e992513975.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/dc3f4c6676644c47ba8dbfe88be57680_zipped.png" ,"supply":1005, "items": 87},
-    { "id": 24, "name": "PugChampNFT 1", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/87ff08801dc74fef97522233933919f1.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006, "items": 54},
-    
+    { "id": 24, "name": "PugChampNFT 1", "volume": "$7.000.000", "image": "https://public.nftstatic.com/static/nft/res/87ff08801dc74fef97522233933919f1.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006, "items": 54}
   ]
 }
