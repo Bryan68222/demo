@@ -33,7 +33,7 @@
 	{ "id": 10, "name": "DODO Minions 1" , "image":"https://public.nftstatic.com/static/nft/res/a95623efbec245429673caaf62ba2e9f.png", "price":39.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 11, "name": "DODO Minions 2" , "image":"https://public.nftstatic.com/static/nft/res/ab21264826f4413288b204d49b05c19e.png", "price":12 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 12, "name": "DODO Minions 3" , "image":"https://public.nftstatic.com/static/nft/res/fdd46441434648c7b2cb780ed512aa5b.png", "price":14.1 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 12, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
+	{ "id": 13, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 14, "name": "Nyaching Tiger - Shiny Double Happiness" , "image":"https://public.nftstatic.com/static/nft/zipped/265c39d39b464a52ba5625fad1332558_zipped.jpeg", "price":98 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
 	{ "id": 15, "name": "Nyaching Tiger - Lucky" , "image":"https://public.nftstatic.com/static/nft/zipped/f426f13c332d4a7a94847f70e82d24de_zipped.jpeg", "price":500 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
 	{ "id": 18, "name": "Dog #8 - 6/100" , "image":"https://public.nftstatic.com/static/nft/zipped/1dd74577f5114b99a4309ee4a417c936_zipped.png", "price":18 , "coin": "BUSD" ,"collection_name":"playgarden" },
