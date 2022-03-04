@@ -60,6 +60,6 @@
 	{ "id": 20, "name": "SATURN 6/100" , "image":"https://public.nftstatic.com/static/nft/zipped/88fa245759314d55b36b5269d3d93263_zipped.jpeg", "price":9.56 , "coin": "BUSD" ,"collection_name":"playgarden" },
 	{ "id": 21, "name": "FAT APE #81▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/a2e5d3673ab5455ab5cf1800c8d95355_zipped.png", "price":50 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
 	{ "id": 22, "name": "FAT APE #34▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/cef1b49c8105478688c0cc8c76274880_zipped.png", "price":79 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
-	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
+	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" }
   ]
 }
