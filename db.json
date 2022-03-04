@@ -1,16 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "collections":[
     { "id": 1, "name": "Highstreet IHO", "volume": "$1.200.000", "image": "https://public.nftstatic.com/static/nft/res/724079ff8cd44977be974b272f8dd73b.png", "link_zip": "https://public.nftstatic.com/static/nft/zipped/7d71d35157224b31bc829d831176c66e_zipped.png" ,"supply":1000, "items": 20, "type": "col_hot"},
     { "id": 2, "name": "DODO Minions", "volume": "$2.500.000", "image": "https://public.nftstatic.com/static/nft/res/410af685d637403693868d60d32270b1.jpeg", "link_zip": "https://public.nftstatic.com/static/nft/zipped/a5530a2a0dbd4802aab585f37803d582_zipped.jpeg" ,"supply":1001, "items": 34, "type": "col_hot"},
