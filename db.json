@@ -17,6 +17,13 @@
     { "id": 15, "name": "Diamond Pandora Package", "volume": "$7.000.000", "banner_url": "https://public.nftstatic.com/static/nft/res/88b3e592351e4e3d9cfb569a4e273dd5.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/1ca68c69bd6a4652a35c18b6a9b20c1c_zipped.png" ,"supply":1006, "items": 54},
     { "id": 16, "name": "Tattooed Kitty Gang", "volume": "$7.000.000", "banner_url": "https://public.nftstatic.com/static/nft/res/9ca5a5f9415849df87e1f7fd6b6ff9aa.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/0c7ade89f6df4ee183c0e61a1e54f09a_zipped.png" ,"supply":1006, "items": 54},
     { "id": 17, "name": "Bloktopia Genesis Adblok NFTs", "volume": "$7.000.000", "banner_url": "https://public.nftstatic.com/static/nft/res/d140351eb6624d138f484c2af0da743e.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/32ee5a1f0bb94cbc82f185c506f91021_zipped.png" ,"supply":1006, "items": 54},
+    { "id": 18, "name": "Highstreet IHO 1", "volume": "$1.200.000", "banner_url": "https://public.nftstatic.com/static/nft/res/724079ff8cd44977be974b272f8dd73b.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/7d71d35157224b31bc829d831176c66e_zipped.png" ,"supply":1000, "items": 20},
+    { "id": 19, "name": "DODO Minions 1", "volume": "$2.500.000", "banner_url": "https://public.nftstatic.com/static/nft/res/410af685d637403693868d60d32270b1.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/a5530a2a0dbd4802aab585f37803d582_zipped.jpeg" ,"supply":1001, "items": 34},
+    { "id": 20, "name": "Nyaching - Year of the Tiger 1", "volume": "$3.000.000", "banner_url":"https://public.nftstatic.com/static/nft/res/3e7ed30271fc40a8a632d642d4052c5a.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/1c239ca344f44d3985e9a882dde32194_zipped.jpeg" ,"supply":1002, "items": 26},
+    { "id": 21, "name": "playgarden 1", "volume": "$4.450.000", "banner_url": "https://public.nftstatic.com/static/nft/res/3ca9bd3041c745c59d04123dd5bba290.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/d9ac2d8bbd6247a597f9df125b5e6cd8_zipped.png" ,"supply":1003, "items": 25},
+    { "id": 22, "name": "AQUANEE 1", "volume": "$5.890.000", "banner_url": "https://public.nftstatic.com/static/nft/res/51d306762b484cc28ca8a956868a020d.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/82ece1d10f754b77ba2f8d0367eaae93_zipped.png" ,"supply":1004, "items": 40},
+    { "id": 23, "name": "NFT_LION 1", "volume": "$6.450.000", "banner_url": "https://public.nftstatic.com/static/nft/res/86e8744b90ea407c8d7cb4e992513975.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/dc3f4c6676644c47ba8dbfe88be57680_zipped.png" ,"supply":1005, "items": 87},
+    { "id": 24, "name": "PugChampNFT 1", "volume": "$7.000.000", "banner_url": "https://public.nftstatic.com/static/nft/res/87ff08801dc74fef97522233933919f1.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/a81fb83270264069b20d998e738de84b_zipped.gif" ,"supply":1006, "items": 54}
   ],
   "NFTs":[
 	{ "id": 1, "name": "Woman Warrior" , "image":"https://public.nftstatic.com/static/nft/res/3238eebacf20454abc09644d27782139.png", "price":98 , "coin": "BUSD" ,"collection_name":"Highstreet IHO" },
@@ -29,5 +36,8 @@
 	{ "id": 13, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
 	{ "id": 14, "name": "Nyaching Tiger - Shiny Double Happiness" , "image":"https://public.nftstatic.com/static/nft/zipped/265c39d39b464a52ba5625fad1332558_zipped.jpeg", "price":98 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
 	{ "id": 15, "name": "Nyaching Tiger - Lucky" , "image":"https://public.nftstatic.com/static/nft/zipped/f426f13c332d4a7a94847f70e82d24de_zipped.jpeg", "price":500 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
-	]
+	{ "id": 18, "name": "Dog #8 - 6/100" , "image":"https://public.nftstatic.com/static/nft/zipped/1dd74577f5114b99a4309ee4a417c936_zipped.png", "price":18 , "coin": "BUSD" ,"collection_name":"playgarden" },
+	{ "id": 21, "name": "FAT APE #81▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/a2e5d3673ab5455ab5cf1800c8d95355_zipped.png", "price":50 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
+	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" }
+  ]
 }
