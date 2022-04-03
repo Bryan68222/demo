@@ -20,20 +20,5 @@
     { "id": 18, "name": "Highstreet IHO 1", "volume": "$1.200.000", "banner_url": "https://public.nftstatic.com/static/nft/res/724079ff8cd44977be974b272f8dd73b.png", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/7d71d35157224b31bc829d831176c66e_zipped.png" ,"supply":1000, "items": 20},
     { "id": 19, "name": "DODO Minions 1", "volume": "$2.500.000", "banner_url": "https://public.nftstatic.com/static/nft/res/410af685d637403693868d60d32270b1.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/a5530a2a0dbd4802aab585f37803d582_zipped.jpeg" ,"supply":1001, "items": 34},
     { "id": 20, "name": "Nyaching - Year of the Tiger 1", "volume": "$3.000.000", "banner_url":"https://public.nftstatic.com/static/nft/res/3e7ed30271fc40a8a632d642d4052c5a.jpeg", "avatar_url": "https://public.nftstatic.com/static/nft/zipped/1c239ca344f44d3985e9a882dde32194_zipped.jpeg" ,"supply":1002, "items": 26},
-  ],
-  "NFTs":[
-	{ "id": 1, "name": "Woman Warrior" , "image":"https://public.nftstatic.com/static/nft/res/3238eebacf20454abc09644d27782139.png", "price":98 , "coin": "BUSD" ,"collection_name":"Highstreet IHO" },
-	{ "id": 2, "name": "The Solarium 1" , "image":"https://public.nftstatic.com/static/nft/zipped/7241bbae9538432883c61c9abd89e176_zipped.gif", "price":1123 , "coin": "BUSD" ,"collection_name":"Highstreet IHO" },
-	{ "id": 3, "name": "The Solarium 2" , "image":"https://public.nftstatic.com/static/nft/zipped/c0d06c52382b48c992e6d6840597dfc3_zipped.gif", "price":1159 , "coin": "BUSD" ,"collection_name":"Highstreet IHO" },
-	{ "id": 4, "name": "The Solarium 3" , "image":"https://public.nftstatic.com/static/nft/zipped/205533b4b40c471e9c998debd7122460_zipped.gif", "price":452 , "coin": "BUSD" ,"collection_name":"Highstreet IHO" },
-	{ "id": 10, "name": "DODO Minions 1" , "image":"https://public.nftstatic.com/static/nft/res/a95623efbec245429673caaf62ba2e9f.png", "price":39.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 11, "name": "DODO Minions 2" , "image":"https://public.nftstatic.com/static/nft/res/ab21264826f4413288b204d49b05c19e.png", "price":12 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 12, "name": "DODO Minions 3" , "image":"https://public.nftstatic.com/static/nft/res/fdd46441434648c7b2cb780ed512aa5b.png", "price":14.1 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 13, "name": "DODO Minions 4" , "image":"https://public.nftstatic.com/static/nft/res/a7847428105549c0bc48699461aa6fed.png", "price":54.9 , "coin": "BUSD" ,"collection_name":"DODO Minions" },
-	{ "id": 14, "name": "Nyaching Tiger - Shiny Double Happiness" , "image":"https://public.nftstatic.com/static/nft/zipped/265c39d39b464a52ba5625fad1332558_zipped.jpeg", "price":98 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
-	{ "id": 15, "name": "Nyaching Tiger - Lucky" , "image":"https://public.nftstatic.com/static/nft/zipped/f426f13c332d4a7a94847f70e82d24de_zipped.jpeg", "price":500 , "coin": "BUSD" ,"collection_name":"Nyaching - Year of the Tiger" },
-	{ "id": 18, "name": "Dog #8 - 6/100" , "image":"https://public.nftstatic.com/static/nft/zipped/1dd74577f5114b99a4309ee4a417c936_zipped.png", "price":18 , "coin": "BUSD" ,"collection_name":"playgarden" },
-	{ "id": 21, "name": "FAT APE #81▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/a2e5d3673ab5455ab5cf1800c8d95355_zipped.png", "price":50 , "coin": "BUSD" ,"collection_name":"NFT_LION" },
-	{ "id": 23, "name": "RAINBOW APE #119▵NFT LION" , "image":"https://public.nftstatic.com/static/nft/zipped/45469d26063e4ba39eab7965560a8af4_zipped.png", "price":11 , "coin": "BUSD" ,"collection_name":"NFT_LION" }
   ]
 }
